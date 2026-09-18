@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyInstaller working files. The finished executable in dist/ is kept, because
+# the brief asks for the program to be exported as an executable.
+build/
+*.spec
+
+# Editor and OS clutter
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
